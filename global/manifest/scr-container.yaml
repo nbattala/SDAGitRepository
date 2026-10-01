@@ -1,0 +1,21 @@
+Application:
+  Name: global
+MasterImage:
+  URL: sasfdacr.azurecr.io/viya-4-x64_oci_linux_2-docker/sas-decisions-runtime-components:1.150.15-20260911.1789149876169
+BaseImage:
+  URL: sasfdacr.azurecr.io/viya-4-x64_oci_linux_2-docker/sas-decisions-runtime-base:1.150.15-20260911.1789149883547
+Destination:
+  URL: sasfdacr.azurecr.io
+  ImageName: global
+  Tags:
+  - latest
+  - 1.50014.0
+ResourceCategories:
+- fraud
+- hiredis
+- kafka
+Languages: []
+Databases:
+- oracle
+PythonResources: []
+PythonEnabled: false
