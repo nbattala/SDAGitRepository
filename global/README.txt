@@ -1,1 +1,2 @@
 global published from /detectionDefinition/deployments/c7f75684-db32-49f8-80a0-9327244a95e4 at 2026-10-01 19:41:58.90636548 +0000 UTC m=+42354.376387022 by sas.detectionDefinition. Branch: main Tag: v2026.1001.1
+global published from /detectionDefinition/deployments/77efd8f6-516a-4090-812a-ff499d06900f at 2026-10-01 21:40:18.130291351 +0000 UTC m=+49453.600312889 by sas.detectionDefinition. Branch: main Tag: v2026.1001.2
