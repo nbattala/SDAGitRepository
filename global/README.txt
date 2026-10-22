@@ -2,3 +2,4 @@ global published from /detectionDefinition/deployments/c7f75684-db32-49f8-80a0-9
 global published from /detectionDefinition/deployments/77efd8f6-516a-4090-812a-ff499d06900f at 2026-10-01 21:40:18.130291351 +0000 UTC m=+49453.600312889 by sas.detectionDefinition. Branch: main Tag: v2026.1001.2
 global published from /detectionDefinition/deployments/7c0dc8e3-7892-4c6c-ac66-688ac5f8e6b3 at 2026-10-21 18:22:01.273756292 +0000 UTC m=+58685.333742823 by sas.detectionDefinition. Branch: main Tag: v2026.1021.1
 global published from /detectionDefinition/deployments/bb1c5882-ecfc-4cb2-a494-8c22b34b2bd3 at 2026-10-22 20:59:18.119815129 +0000 UTC m=+3347.077790731 by sas.detectionDefinition. Branch: main Tag: v2026.1022.1
+global published from /detectionDefinition/deployments/d6f9aeaf-f078-4202-908c-cba57103a46b at 2026-10-22 21:19:12.598641261 +0000 UTC m=+4541.556616860 by sas.detectionDefinition. Branch: main Tag: v2026.1022.2
