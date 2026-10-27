@@ -9,7 +9,7 @@ Destination:
   ImageName: global
   Tags:
   - latest
-  - 1.50004.0
+  - 1.50005.0
 ResourceCategories:
 - fraud
 - hiredis
